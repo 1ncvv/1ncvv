@@ -1,1 +1,4 @@
-# welcome to my github, i'm 1ncvv 👋
+# 1ncvv 👋
+```python
+discord_accounts = []
+```
